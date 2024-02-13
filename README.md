@@ -9,8 +9,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I am currently:
-- working on Web Applications in the Core Banking/Finantial field
-- studying Computer Engineering (Master's Degree) at the [Politecnico di Torino](https://github.com/polito)
+I:
+- work on Web Applications in the Core Banking/Finantial field
+- study Computer Engineering (Master's Degree) at the [Politecnico di Torino](https://github.com/polito)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bred91&count_private=true&show_icons=true&theme=tokyonight&size_weight=0.5&count_weight=0.5)](https://github.com/anuraghazra/github-readme-stats)
